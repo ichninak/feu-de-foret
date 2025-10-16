@@ -17,5 +17,7 @@ public class TestAutomata {
         kAC.forestDisplay();
 
         // add another test, for testing if we chose a dimension under 10 is working
+
+        // try putfire() 
     }
 }

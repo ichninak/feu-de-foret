@@ -28,5 +28,28 @@ public class Automata {
         String firetree = "O";
         String ash = "_";
 
+        // create conditional if with the matrix Automata and return a new matrix with only string
+
     }
+
+    public boolean isRazed(){
+        // return false if we have at least one tree
+        // return true if we don't have tree
+        return false;
+    }
+
+    public boolean isOnFire(){
+        // return true if at least one tree is burn or return false
+        return false;
+    }
+
+    public putFire(int i, int j){
+        // matrix[i][j] = 5
+        // random
+    }
+
+    public putFire(){
+        // modify the matrix to put a fire (5) even if isnot a tree
+    }
+    
 }
